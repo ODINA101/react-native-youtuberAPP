@@ -1,0 +1,16 @@
+file:///home/odina/Desktop/kabulapp/myapp/components/Video.js
+import React, { Component } from 'react'
+
+
+
+
+
+export default class Video extends Component {
+
+
+    render() {
+        return(
+            
+        )
+    }
+}

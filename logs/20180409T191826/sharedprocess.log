@@ -1,0 +1,93 @@
+[2018-04-09 19:18:26.938] [sharedprocess] [info] main {"machineId":"fba60a6f03b62f661d047839410f71d3236e7917f365cdb85dac48f27fb6bc38"}
+[2018-04-09 19:18:26.998] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-09 19:18:27.071] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:18:28.069] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-09 19:18:28.083] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-09 19:18:28.111] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-09 19:18:28.198] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:18:28.207] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:18:30.682] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-09 19:19:06.946] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-04-09 19:23:30.792] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-09 19:28:30.854] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-09 19:30:34.081] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-09 19:30:40.453] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-09 19:30:51.204] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-09 19:30:51.213] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-09 19:30:51.226] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-09 19:30:51.320] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:30:51.327] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:30:51.376] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-09 19:30:51.419] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:30:51.677] [sharedprocess] [info] Installing extension: vscode-java-pack
+[2018-04-09 19:30:51.702] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-09 19:30:51.743] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:30:51.955] [sharedprocess] [info] Installing extension: java
+[2018-04-09 19:30:51.955] [sharedprocess] [info] Installing extension: vscode-java-debug
+[2018-04-09 19:30:51.955] [sharedprocess] [info] Installing extension: vscode-java-test
+[2018-04-09 19:30:51.955] [sharedprocess] [info] Installing extension: vscode-maven
+[2018-04-09 19:30:54.877] [sharedprocess] [info] Downloaded extension: vscode-java-debug
+[2018-04-09 19:30:55.224] [sharedprocess] [info] Downloaded extension: vscode-maven
+[2018-04-09 19:30:55.300] [sharedprocess] [info] Extracted extension to /home/odina/.vscode/extensions/vscjava.vscode-java-debug-0.8.0: vscjava.vscode-java-debug-0.8.0
+[2018-04-09 19:30:55.318] [sharedprocess] [info] Updated metadata of the extension: vscjava.vscode-java-debug-0.8.0
+[2018-04-09 19:30:56.095] [sharedprocess] [info] Extracted extension to /home/odina/.vscode/extensions/vscjava.vscode-maven-0.6.0: vscjava.vscode-maven-0.6.0
+[2018-04-09 19:30:56.108] [sharedprocess] [info] Updated metadata of the extension: vscjava.vscode-maven-0.6.0
+[2018-04-09 19:30:57.418] [sharedprocess] [info] Downloaded extension: vscode-java-pack
+[2018-04-09 19:30:57.551] [sharedprocess] [info] Extracted extension to /home/odina/.vscode/extensions/vscjava.vscode-java-pack-0.3.0: vscjava.vscode-java-pack-0.3.0
+[2018-04-09 19:30:57.556] [sharedprocess] [info] Updated metadata of the extension: vscjava.vscode-java-pack-0.3.0
+[2018-04-09 19:30:59.720] [sharedprocess] [info] Downloaded extension: vscode-java-test
+[2018-04-09 19:31:04.356] [sharedprocess] [info] Extracted extension to /home/odina/.vscode/extensions/vscjava.vscode-java-test-0.5.0: vscjava.vscode-java-test-0.5.0
+[2018-04-09 19:31:04.376] [sharedprocess] [info] Updated metadata of the extension: vscjava.vscode-java-test-0.5.0
+[2018-04-09 19:31:08.470] [sharedprocess] [info] Downloaded extension: java
+[2018-04-09 19:31:09.344] [sharedprocess] [info] Extracted extension to /home/odina/.vscode/extensions/redhat.java-0.22.0: redhat.java-0.22.0
+[2018-04-09 19:31:09.359] [sharedprocess] [info] Updated metadata of the extension: redhat.java-0.22.0
+[2018-04-09 19:31:09.360] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-pack
+[2018-04-09 19:31:09.362] [sharedprocess] [info] Extensions installed successfully: redhat.java
+[2018-04-09 19:31:09.363] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-debug
+[2018-04-09 19:31:09.363] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-test
+[2018-04-09 19:31:09.363] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-maven
+[2018-04-09 19:31:10.010] [sharedprocess] [info] Scanned user extensions: 13
+[2018-04-09 19:31:10.024] [sharedprocess] [info] Scanned user extensions: 13
+[2018-04-09 19:31:10.042] [sharedprocess] [info] Scanned user extensions: 13
+[2018-04-09 19:31:10.047] [sharedprocess] [info] Scanned user extensions: 13
+[2018-04-09 19:31:10.051] [sharedprocess] [info] Scanned user extensions: 13
+[2018-04-09 19:31:10.223] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:31:10.231] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:31:10.244] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:31:10.253] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:31:10.263] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:31:29.187] [sharedprocess] [info] Scanned user extensions: 13
+[2018-04-09 19:32:59.831] [sharedprocess] [info] Scanned user extensions: 13
+[2018-04-09 19:33:30.934] [sharedprocess] [info] Scanned user extensions: 13
+[2018-04-09 19:38:30.982] [sharedprocess] [info] Scanned user extensions: 13
+[2018-04-09 19:39:53.574] [sharedprocess] [info] Scanned user extensions: 13
+[2018-04-09 19:43:31.036] [sharedprocess] [info] Scanned user extensions: 13
+[2018-04-09 19:48:31.132] [sharedprocess] [info] Scanned user extensions: 13
+[2018-04-09 19:53:31.202] [sharedprocess] [info] Scanned user extensions: 13
+[2018-04-09 19:57:18.566] [sharedprocess] [info] Installing extension: vscode-react-native
+[2018-04-09 19:57:18.619] [sharedprocess] [info] Scanned user extensions: 13
+[2018-04-09 19:57:18.667] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:57:24.221] [sharedprocess] [info] Downloaded extension: vscode-react-native
+[2018-04-09 19:57:31.190] [sharedprocess] [info] Extracted extension to /home/odina/.vscode/extensions/vsmobile.vscode-react-native-0.6.6: vsmobile.vscode-react-native-0.6.6
+[2018-04-09 19:57:31.215] [sharedprocess] [info] Updated metadata of the extension: vsmobile.vscode-react-native-0.6.6
+[2018-04-09 19:57:31.215] [sharedprocess] [info] Extensions installed successfully: vsmobile.vscode-react-native
+[2018-04-09 19:57:31.373] [sharedprocess] [info] Scanned user extensions: 14
+[2018-04-09 19:57:31.399] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:57:33.607] [sharedprocess] [info] Installing extension: react-native-snippet
+[2018-04-09 19:57:34.654] [sharedprocess] [info] Downloaded extension: react-native-snippet
+[2018-04-09 19:57:34.688] [sharedprocess] [info] Extracted extension to /home/odina/.vscode/extensions/jundat95.react-native-snippet-0.4.2: jundat95.react-native-snippet-0.4.2
+[2018-04-09 19:57:34.693] [sharedprocess] [info] Updated metadata of the extension: jundat95.react-native-snippet-0.4.2
+[2018-04-09 19:57:34.693] [sharedprocess] [info] Extensions installed successfully: jundat95.react-native-snippet
+[2018-04-09 19:57:34.864] [sharedprocess] [info] Scanned user extensions: 15
+[2018-04-09 19:57:34.890] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:57:45.998] [sharedprocess] [info] Scanned user extensions: 15
+[2018-04-09 19:57:46.004] [sharedprocess] [info] Scanned user extensions: 15
+[2018-04-09 19:57:46.010] [sharedprocess] [info] Scanned user extensions: 15
+[2018-04-09 19:57:46.013] [sharedprocess] [info] Scanned user extensions: 15
+[2018-04-09 19:57:46.019] [sharedprocess] [info] Scanned user extensions: 15
+[2018-04-09 19:57:46.090] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:57:46.094] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:57:46.099] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-09 19:57:49.224] [sharedprocess] [info] Scanned user extensions: 15
+[2018-04-09 20:02:49.335] [sharedprocess] [info] Scanned user extensions: 15
+[2018-04-09 20:07:49.425] [sharedprocess] [info] Scanned user extensions: 15
